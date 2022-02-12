@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
 body {
+    font-family: 'Yeseva One', cursive;
+    background: url("../../assets/images/SvWWN.png");
+    background-size: 124%;
     
 }
+
+a {
+    color: #eef1f5;
+      
+     }
+:root {
+    --bs-body-color: #eef1f5;
+}
+.container {
+width: 800px;
+margin: 0 auto;
+}
+
+
